@@ -19,10 +19,11 @@
   "license": "ISC",
   "author": "Ilia Liubinskii <admin.phpdev@gmail.com> (https://github.com/ilyub)",
   "publisher": "ilyub",
-  "main": "src/lodash.js",
-  "module": "src/lodash-es.js",
+  "main": "dist/lodash.js",
+  "module": "es/lodash.js",
   "files": [
-    "/src"
+    "/dist",
+    "/es"
   ],
   "scripts": {
     "add-tags": "php node_modules/@skylib/config/src/utils/add-tags.php",
