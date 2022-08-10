@@ -56,8 +56,8 @@
     "upgrade": "npm run update-package-force && npm run npm:install"
   },
   "devDependencies": {
-    "@skylib/config": "^3.28.0",
-    "@skylib/eslint-plugin": "^0.1.42"
+    "@skylib/config": "^3.35.0",
+    "@skylib/eslint-plugin": "^0.1.48"
   },
   "peerDependencies": {
     "@types/lodash": ">=4",
